@@ -1,6 +1,5 @@
 # Olá! 👋 Eu sou o Gustavo Barreto
 
-🧑‍💻 Gustavo Barreto Lima
 🎓 Formado em Análise e Desenvolvimento de Sistemas (2022) pelo Centro Universitário Eniac, sou apaixonado por tecnologia e desenvolvimento web. Após a graduação, segui me aprimorando em frameworks e linguagens modernas para criar soluções inovadoras e eficientes.
 
 📚 Conhecimentos e Estudos
