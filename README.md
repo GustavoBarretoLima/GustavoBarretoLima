@@ -27,3 +27,5 @@ Sempre em busca de novas tecnologias e desafios, meu objetivo é contribuir para
 📫 Contato
 📫 [LinkedIn](https://www.linkedin.com/in/gustavo-barreto-5341a9217)
 📫 Email: gustavobarretolima@gmail.com
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBarretoLima&layout=compact&theme=radical)](https://github.com/GustavoBarretoLima)
