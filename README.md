@@ -15,9 +15,6 @@
 🚀 Objetivo Profissional
 Sempre em busca de novas tecnologias e desafios, meu objetivo é contribuir para projetos que impactem positivamente os usuários e aprimorar minhas habilidades como desenvolvedor.
 
-🛠️ Tecnologias que uso
-
-📌 Projetos em Destaque
 
 ## 📌 Projetos em Destaque
 - [Jogo da Memória com Emojis](https://github.com/GustavoBarretoLima/jogo-da-memoria)
