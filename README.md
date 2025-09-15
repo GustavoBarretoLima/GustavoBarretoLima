@@ -26,5 +26,4 @@ Sempre em busca de novas tecnologias e desafios, meu objetivo é contribuir para
 📫 Email: gustavobarretolima@gmail.com
 
 #
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBarretoLima&layout=compact&theme=radical)](https://github.com/GustavoBarretoLima)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBarretoLima&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
