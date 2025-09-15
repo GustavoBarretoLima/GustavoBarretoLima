@@ -20,8 +20,11 @@ Sempre em busca de novas tecnologias e desafios, meu objetivo é contribuir para
 - [Teclado Musical Virtual](https://github.com/GustavoBarretoLima/js-music-keyboard-virtual)
 - [site criado com objetivo de ajudar funcionarios novos na empresa Krona Maxxi ao qual trabalho atualmente](https://kronatec.github.io/procedimentos/index.html).
 
-📫 Contato
+# 📫 Contato
+
 📫 [LinkedIn](https://www.linkedin.com/in/gustavo-barreto-5341a9217)
 📫 Email: gustavobarretolima@gmail.com
+
+#
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBarretoLima&layout=compact&theme=radical)](https://github.com/GustavoBarretoLima)
