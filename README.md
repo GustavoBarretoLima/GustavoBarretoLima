@@ -19,6 +19,7 @@ Sempre em busca de novas tecnologias e desafios, meu objetivo é contribuir para
 - [Jogo da Memória com Emojis](https://github.com/GustavoBarretoLima/jogo-da-memoria)
 - [Teclado Musical Virtual](https://github.com/GustavoBarretoLima/js-music-keyboard-virtual)
 - [site criado com objetivo de ajudar funcionarios novos na empresa Krona Maxxi ao qual trabalho atualmente](https://kronatec.github.io/procedimentos/index.html).
+- [Mundo invertido](https://gustavobarretolima.github.io/semana-frontend-mundo-invertido/)
 
 # 📫 Contato
 
